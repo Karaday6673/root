@@ -1,0 +1,266 @@
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="/private/var/root/AndroidStudioProjects/MyApplication" value="/private/var/root/.gradle/wrapper/dists/gradle-8.9-bin/90cnw93cvbtalezasaz0blq0a/gradle-8.9" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="/private/var/root/AndroidStudioProjects/MyApplication" value="8.9" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="My Application" />
+              <option name="path" value="/private/var/root/AndroidStudioProjects/MyApplication" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="My Application" />
+                <option name="path" value="/private/var/root/AndroidStudioProjects/MyApplication" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":app" />
+                <option name="path" value="/private/var/root/AndroidStudioProjects/MyApplication/app" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="/private/var/root/AndroidStudioProjects/MyApplication" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="KotlinGradleFUSSettings">
+    <option name="gradleUserDirs" value="/private/var/root/.gradle" />
+  </component>
+  <component name="ProcessedFilesStorage">
+    <timestamps>
+      <entry key="4aed590231b1f3554d9ff37c1fc8a358" value="1730575703686" />
+      <entry key="7816fb258d9791a3d91680f7652b4d60" value="1730576436781" />
+      <entry key="fffa465b2ac4489be9769be9a8542a7e" value="1730532052019" />
+    </timestamps>
+  </component>
+  <component name="RestoreUpdateTree">{}</component>
+  <component name="sourceFolderManager">
+    <sourceFolders>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.main" />
+        <option name="type" value="SOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/main/kotlin" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.main" />
+        <option name="type" value="SOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/main/shaders" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.main" />
+        <option name="type" value="RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/main/assets" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.main" />
+        <option name="type" value="RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/main/baselineProfiles" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.main" />
+        <option name="type" value="RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/main/resources" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.main" />
+        <option name="type" value="SOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/debug/java" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.main" />
+        <option name="type" value="SOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/debug/kotlin" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.main" />
+        <option name="type" value="SOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/debug/shaders" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.main" />
+        <option name="type" value="RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/debug/assets" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.main" />
+        <option name="type" value="RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/debug/baselineProfiles" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.main" />
+        <option name="type" value="RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/debug/res" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.main" />
+        <option name="type" value="RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/debug/resources" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.unitTest" />
+        <option name="type" value="TEST_SOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/test/kotlin" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.unitTest" />
+        <option name="type" value="TEST_SOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/test/shaders" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.unitTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/test/assets" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.unitTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/test/baselineProfiles" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.unitTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/test/res" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.unitTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/test/resources" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.unitTest" />
+        <option name="type" value="TEST_SOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/testDebug/java" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.unitTest" />
+        <option name="type" value="TEST_SOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/testDebug/kotlin" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.unitTest" />
+        <option name="type" value="TEST_SOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/testDebug/shaders" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.unitTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/testDebug/assets" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.unitTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/testDebug/baselineProfiles" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.unitTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/testDebug/res" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.unitTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/testDebug/resources" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.androidTest" />
+        <option name="type" value="TEST_SOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/androidTestDebug/java" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.androidTest" />
+        <option name="type" value="TEST_SOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/androidTestDebug/kotlin" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.androidTest" />
+        <option name="type" value="TEST_SOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/androidTestDebug/shaders" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.androidTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/androidTestDebug/assets" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.androidTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/androidTestDebug/baselineProfiles" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.androidTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/androidTestDebug/res" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.androidTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/androidTestDebug/resources" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.androidTest" />
+        <option name="type" value="TEST_SOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/androidTest/kotlin" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.androidTest" />
+        <option name="type" value="TEST_SOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/androidTest/shaders" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.androidTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/androidTest/assets" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.androidTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/androidTest/baselineProfiles" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.androidTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/androidTest/res" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="My_Application.app.androidTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/src/androidTest/resources" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="generated" value="true" />
+        <option name="moduleName" value="My_Application.app.unitTest" />
+        <option name="type" value="TEST_SOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/build/generated/ap_generated_sources/debugUnitTest/out" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="generated" value="true" />
+        <option name="moduleName" value="My_Application.app.androidTest" />
+        <option name="type" value="TEST_SOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/build/generated/ap_generated_sources/debugAndroidTest/out" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="generated" value="true" />
+        <option name="moduleName" value="My_Application.app.androidTest" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/build/generated/res/resValues/androidTest/debug" />
+      </SourceFolderModelState>
+    </sourceFolders>
+  </component>
+</project>
