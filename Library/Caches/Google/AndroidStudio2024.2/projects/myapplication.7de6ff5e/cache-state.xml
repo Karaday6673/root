@@ -43,14 +43,27 @@
   <component name="KotlinGradleFUSSettings">
     <option name="gradleUserDirs" value="/private/var/root/.gradle" />
   </component>
+  <component name="NimProjectFileService" has-nim-files="false" />
   <component name="ProcessedFilesStorage">
     <timestamps>
+      <entry key="3e4ecd51a1ca740ca4f9ad896fa402ed" value="1730590588731" />
       <entry key="4aed590231b1f3554d9ff37c1fc8a358" value="1730575703686" />
       <entry key="7816fb258d9791a3d91680f7652b4d60" value="1730576436781" />
+      <entry key="9dc3a6cc1e089025cf1e01e7d2636e70" value="1730592526914" />
+      <entry key="a02226ff9c0d09b37a3da211f0eec1fc" value="1730592206310" />
+      <entry key="ebdcd7244fe6f9cd1790637f3e7c5d32" value="1730593029221" />
       <entry key="fffa465b2ac4489be9769be9a8542a7e" value="1730532052019" />
     </timestamps>
   </component>
   <component name="RestoreUpdateTree">{}</component>
+  <component name="VcsLogIndexCollector">
+    <option name="indexTime" value="118" />
+    <option name="indexTimeByRoot">
+      <map>
+        <entry key="/private/var/root" value="118" />
+      </map>
+    </option>
+  </component>
   <component name="sourceFolderManager">
     <sourceFolders>
       <SourceFolderModelState>
@@ -254,12 +267,6 @@
         <option name="moduleName" value="My_Application.app.androidTest" />
         <option name="type" value="TEST_SOURCE" />
         <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/build/generated/ap_generated_sources/debugAndroidTest/out" />
-      </SourceFolderModelState>
-      <SourceFolderModelState>
-        <option name="generated" value="true" />
-        <option name="moduleName" value="My_Application.app.androidTest" />
-        <option name="type" value="TEST_RESOURCE" />
-        <option name="url" value="file:///private/var/root/AndroidStudioProjects/MyApplication/app/build/generated/res/resValues/androidTest/debug" />
       </SourceFolderModelState>
     </sourceFolders>
   </component>
